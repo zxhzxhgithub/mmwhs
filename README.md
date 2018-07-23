@@ -11,8 +11,7 @@ For evaluation of the test data, the participants should prepare a brief descrip
 
 ## Publication and Citation
 You are welcomed to use the data or results for publications, and please cite the references:
-
-[1] Xiahai Zhuang and Juan Shen: Multi-scale patch and multi-modality atlases for whole heart segmentation of MRI, Medical Image Analysis, vol.31, pp.77-87, 2016 (download: http://dx.doi.org/10.1016/j.media.2016.02.006)
-[2] Xiahai Zhuang: Challenges and Methodologies of Fully Automatic Whole Heart Segmentation: A Review. Journal of Healthcare Engineering 4 (3): 371–407, 2013 (download: http://dx.doi.org/10.1260/2040-2295.4.3.371)
-[3] Zhuang, X., Rhode, K., Razavi, R., Hawkes, D. J., Ourselin, S.: A Registration-Based Propagation Framework for Automatic Whole Heart Segmentation of Cardiac MRI. IEEE Transactions on Medical Imaging, 29 (9): 1612-1625, 2010. (download: https://doi.org/10.1109/TMI.2010.2047112)
++ [1] Xiahai Zhuang and Juan Shen: Multi-scale patch and multi-modality atlases for whole heart segmentation of MRI, Medical Image Analysis, vol.31, pp.77-87, 2016 (download: http://dx.doi.org/10.1016/j.media.2016.02.006)
++ [2] Xiahai Zhuang: Challenges and Methodologies of Fully Automatic Whole Heart Segmentation: A Review. Journal of Healthcare Engineering 4 (3): 371–407, 2013 (download: http://dx.doi.org/10.1260/2040-2295.4.3.371)
++ [3] Zhuang, X., Rhode, K., Razavi, R., Hawkes, D. J., Ourselin, S.: A Registration-Based Propagation Framework for Automatic Whole Heart Segmentation of Cardiac MRI. IEEE Transactions on Medical Imaging, 29 (9): 1612-1625, 2010. (download: https://doi.org/10.1109/TMI.2010.2047112)
  
